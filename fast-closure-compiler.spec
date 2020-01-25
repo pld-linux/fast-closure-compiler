@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.java
 Summary:	Make the Google Closure Compiler start faster
 Name:		fast-closure-compiler
 Version:	0.0.1
